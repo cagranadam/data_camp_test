@@ -1,3 +1,17 @@
+# Fundamentals
+Title
+Description of technology. Why?
+Description of the process. Why?
+Table of contents
+Extras:
+How the project came about
+Motivation behind it
+Limitations
+Challenges
+What problem it hopes to solve
+What the intended use is
+Credits
+
 # data_camp_test
 Analyze goals trends
 
